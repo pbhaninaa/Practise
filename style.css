@@ -1,0 +1,67 @@
+body{
+    background-color: cornflowerblue;
+    height: 1000;
+   
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.maindiv{
+    
+    height: 50PX;
+    width: 1900PX;
+    display: flex;
+    opacity: 100%;
+}
+.op{
+    background-color: aliceblue;
+    opacity: 50%;
+}
+i{
+    width :20px;
+}
+.maindivlog{
+    display: flex;
+}
+I{
+    color:GREY;
+    opacity: 100%;
+}
+.fas fa-address-book{
+    size: 100px;
+    width: 100px;
+    height: 100px;
+}
+.btn{
+    border-radius: 5px;
+    background-color: #276bb6;
+    color:aliceblue;
+    width: 150px;
+    height: 30px;
+    text-shadow: rgb(44, 13, 13);
+    border:none;
+    
+    
+}
+.btnn{
+    margin-left: 150%;
+    border-radius: 5px;
+    background-color: #276bb6;
+    color:aliceblue;
+    width: 150px;
+    height: 30px;
+    text-shadow: rgb(44, 13, 13);
+    border:none;
+    
+    
+}
+.btn1{
+    border-radius: 5px;
+    background-color: #276bb6;
+    color:aliceblue;
+    width: 113px;
+    height: 30px;
+    text-shadow: rgb(44, 13, 13);
+    border:none;
+    
+    
+}
